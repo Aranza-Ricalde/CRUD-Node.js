@@ -128,4 +128,3 @@ curl -X POST https://crud-node-js-621x.onrender.com/api/registros \
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo `LICENSE`.
-```
